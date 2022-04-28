@@ -7,8 +7,12 @@ sites:
     url: https://etdlp.softr.app/
   - name: ETDLP-MMicroservices
     url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ETDLP-MsPresidencia
+    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_presidencia/20210728
+  - name: ETDLP-MsCongreso
+    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_congreso/20210728
+  - name: ETDLP-MsMinisterios
+    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_ministerios/pcm/20210728
 
 assignees:
   - FabrizioSulcaR
