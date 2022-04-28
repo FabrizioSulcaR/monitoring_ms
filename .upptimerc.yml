@@ -14,7 +14,7 @@ sites:
   - name: ETDLP-MsMinisterios
     url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_ministerios/pcm/20210728
   - name: ETDLP-MsMINSA
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_minsa/20210728
+    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_minsa/20210730
   - name: ETDLP-MsMININTER
     url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_mininter/20210728
   - name: ETDLP-MsMINDEF
