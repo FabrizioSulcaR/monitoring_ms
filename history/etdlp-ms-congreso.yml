@@ -1,7 +1,7 @@
-url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_congreso/20210728
-status: down
-code: 404
-responseTime: 71
-lastUpdated: 2022-04-28T02:23:48.121Z
+url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_congreso?fecha=20210728
+status: up
+code: 200
+responseTime: 1509
+lastUpdated: 2022-04-28T02:58:16.429Z
 startTime: Thu Apr 28 2022 02:23:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
