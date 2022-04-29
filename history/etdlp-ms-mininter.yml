@@ -1,7 +1,7 @@
-url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_mininter/20210728
+url: $ETDLP_MSMININTER
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2022-04-28T23:15:23.963Z
+lastUpdated: 2022-04-29T12:51:14.248Z
 startTime: Thu Apr 28 2022 02:58:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
