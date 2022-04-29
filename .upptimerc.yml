@@ -6,19 +6,19 @@ sites:
   - name: ETDLP-Landing
     url: https://etdlp.softr.app/
   - name: ETDLP-MMicroservices
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/
+    url: $ETDLP_MMICROSERVICES
   - name: ETDLP-MsPresidencia
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_presidencia?fecha=20210728
+    url: $ETDLP_MSPRESIDENCIA
   - name: ETDLP-MsCongreso
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_congreso?fecha=20210728
+    url: $ETDLP_MSCONGRESO
   - name: ETDLP-MsMinisterios
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_ministerios/pcm/20210728
+    url: $ETDLP_MSMINISTERIOS
   - name: ETDLP-MsMINSA
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_minsa/20210730
+    url: $ETDLP_MSMINSA
   - name: ETDLP-MsMININTER
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_mininter/20210728
+    url: $ETDLP_MSMININTER
   - name: ETDLP-MsMINDEF
-    url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_mindef/20210728
+    url: $ETDLP_MSMINDEF
 
 assignees:
   - FabrizioSulcaR
