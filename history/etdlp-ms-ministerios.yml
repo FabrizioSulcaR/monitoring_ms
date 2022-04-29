@@ -1,7 +1,7 @@
-url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_ministerios/pcm/20210728
+url: $ETDLP_MSMINISTERIOS
 status: up
 code: 200
-responseTime: 23613
-lastUpdated: 2022-04-29T04:53:42.063Z
+responseTime: 20479
+lastUpdated: 2022-04-29T12:49:23.723Z
 startTime: Thu Apr 28 2022 02:23:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
