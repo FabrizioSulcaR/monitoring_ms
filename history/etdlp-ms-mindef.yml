@@ -1,7 +1,7 @@
-url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_mindef/20210728
+url: $ETDLP_MSMINDEF
 status: up
 code: 200
-responseTime: 1035
-lastUpdated: 2022-04-28T23:15:25.254Z
+responseTime: 862
+lastUpdated: 2022-04-29T12:51:15.381Z
 startTime: Thu Apr 28 2022 02:58:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
