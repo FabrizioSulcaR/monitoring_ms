@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1172,
-    "timeDay": 1172,
-    "timeWeek": 1172,
-    "timeMonth": 1172,
-    "timeYear": 1172,
+    "time": 1196,
+    "timeDay": 1196,
+    "timeWeek": 1196,
+    "timeMonth": 1196,
+    "timeYear": 1196,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 978,
-    "timeWeek": 978,
-    "timeMonth": 978,
-    "timeYear": 978,
+    "time": 807,
+    "timeDay": 807,
+    "timeWeek": 807,
+    "timeMonth": 807,
+    "timeYear": 807,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/etdlp-microservices-lpmzeu27rq-uc.a.run.app",
     "slug": "etdlp-ms-presidencia",
     "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "96.91%",
-    "time": 1044,
-    "timeDay": 1044,
-    "timeWeek": 1044,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "uptime": "97.46%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 1159,
+    "timeDay": 1159,
+    "timeWeek": 1159,
+    "timeMonth": 1159,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2022-04-28": 34
     }
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/etdlp-microservices-lpmzeu27rq-uc.a.run.app",
     "slug": "etdlp-ms-congreso",
     "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "96.91%",
-    "time": 1186,
-    "timeDay": 1186,
-    "timeWeek": 1186,
-    "timeMonth": 1186,
-    "timeYear": 1186,
+    "uptime": "97.46%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 1534,
+    "timeDay": 1534,
+    "timeWeek": 1534,
+    "timeMonth": 1534,
+    "timeYear": 1534,
     "dailyMinutesDown": {
       "2022-04-28": 34
     }
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/etdlp-microservices-lpmzeu27rq-uc.a.run.app",
     "slug": "etdlp-ms-ministerios",
     "status": "down",
-    "uptime": "15.17%",
-    "uptimeDay": "15.17%",
-    "uptimeWeek": "15.17%",
-    "uptimeMonth": "15.17%",
-    "uptimeYear": "15.17%",
+    "uptime": "19.59%",
+    "uptimeDay": "19.59%",
+    "uptimeWeek": "19.59%",
+    "uptimeMonth": "19.59%",
+    "uptimeYear": "19.59%",
     "time": 14883,
     "timeDay": 14883,
     "timeWeek": 14883,
     "timeMonth": 14883,
     "timeYear": 14883,
     "dailyMinutesDown": {
-      "2022-04-28": 947
+      "2022-04-28": 1091
     }
   },
   {
@@ -101,16 +101,16 @@
     "icon": "https://favicons.githubusercontent.com/etdlp-microservices-lpmzeu27rq-uc.a.run.app",
     "slug": "etdlp-ms-minsa",
     "status": "up",
-    "uptime": "28.13%",
-    "uptimeDay": "28.13%",
-    "uptimeWeek": "28.13%",
-    "uptimeMonth": "28.13%",
-    "uptimeYear": "28.13%",
-    "time": 7746,
-    "timeDay": 7746,
-    "timeWeek": 7746,
-    "timeMonth": 7746,
-    "timeYear": 7746,
+    "uptime": "41.19%",
+    "uptimeDay": "41.19%",
+    "uptimeWeek": "41.19%",
+    "uptimeMonth": "41.19%",
+    "uptimeYear": "41.19%",
+    "time": 10315,
+    "timeDay": 10315,
+    "timeWeek": 10315,
+    "timeMonth": 10315,
+    "timeYear": 10315,
     "dailyMinutesDown": {
       "2022-04-28": 777
     }
@@ -132,7 +132,8 @@
     "timeMonth": 1321,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2022-04-28": 1081
+      "2022-04-29": 60,
+      "2022-04-28": 1261
     }
   },
   {
@@ -146,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3115,
-    "timeDay": 3115,
-    "timeWeek": 3115,
-    "timeMonth": 3115,
-    "timeYear": 3115,
+    "time": 2421,
+    "timeDay": 2421,
+    "timeWeek": 2421,
+    "timeMonth": 2421,
+    "timeYear": 2421,
     "dailyMinutesDown": {}
   }
 ]
