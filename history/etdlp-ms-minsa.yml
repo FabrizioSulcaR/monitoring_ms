@@ -1,7 +1,7 @@
-url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_minsa/20210730
+url: $ETDLP_MSMINSA
 status: up
 code: 200
-responseTime: 18022
-lastUpdated: 2022-04-28T23:13:53.651Z
+responseTime: 19934
+lastUpdated: 2022-04-29T12:49:43.942Z
 startTime: Thu Apr 28 2022 02:58:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
