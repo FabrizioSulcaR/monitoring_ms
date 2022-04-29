@@ -1,7 +1,7 @@
-url: https://etdlp-microservices-lpmzeu27rq-uc.a.run.app/scraper_congreso?fecha=20210728
+url: $ETDLP_MSCONGRESO
 status: up
 code: 200
-responseTime: 2579
-lastUpdated: 2022-04-28T23:12:05.026Z
+responseTime: 2100
+lastUpdated: 2022-04-29T12:49:02.964Z
 startTime: Thu Apr 28 2022 02:23:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
