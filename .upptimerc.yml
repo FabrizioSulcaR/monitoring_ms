@@ -19,7 +19,11 @@ sites:
     url: $ETDLP_MSMININTER
   - name: ETDLP-MsMINDEF
     url: $ETDLP_MSMINDEF
-
+  - name: ETDLP-ROP
+    url: $ETDLP_ROP
+  - name: ETDLP_INFOPROVEEDORES
+    url: $ETDLP_INFOPROVEEDORES
+    
 assignees:
   - FabrizioSulcaR
 
