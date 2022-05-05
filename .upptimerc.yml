@@ -15,8 +15,6 @@ sites:
     url: $ETDLP_MSMINISTERIOS
   - name: ETDLP-MsMINSA
     url: $ETDLP_MSMINSA
-  - name: ETDLP-MsMININTER
-    url: $ETDLP_MSMININTER
   - name: ETDLP-MsMINDEF
     url: $ETDLP_MSMINDEF
   - name: ETDLP-ROP
