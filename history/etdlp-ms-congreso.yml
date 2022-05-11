@@ -1,7 +1,7 @@
 url: $ETDLP_MSCONGRESO
-status: up
-code: 200
-responseTime: 1529
-lastUpdated: 2022-05-10T23:12:29.987Z
+status: down
+code: 404
+responseTime: 67
+lastUpdated: 2022-05-11T02:36:53.376Z
 startTime: Thu Apr 28 2022 02:23:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
