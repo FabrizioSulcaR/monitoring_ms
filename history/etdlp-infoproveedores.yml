@@ -1,7 +1,7 @@
 url: $ETDLP_INFOPROVEEDORES
-status: down
-code: 500
-responseTime: 11568
-lastUpdated: 2022-07-22T15:41:50.044Z
+status: up
+code: 200
+responseTime: 1904
+lastUpdated: 2022-07-22T15:54:24.556Z
 startTime: Tue May 03 2022 01:55:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
